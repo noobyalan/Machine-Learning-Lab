@@ -1,2 +1,3 @@
-Machine Learning course labs 
-week1 : make use of python numpy libray in matrixes 
+# Machine Learning Course Labs
+
+## Week 1: Introduction to Python and NumPy for Matrices
